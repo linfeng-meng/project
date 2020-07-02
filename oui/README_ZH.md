@@ -1,25 +1,5 @@
 # oui
 
-[1]: https://img.shields.io/badge/开源协议-MIT-brightgreen.svg?style=plastic
-[2]: /LICENSE
-[3]: https://img.shields.io/badge/提交代码-欢迎-brightgreen.svg?style=plastic
-[4]: https://github.com/zhaojh329/oui/pulls
-[5]: https://img.shields.io/badge/提问-欢迎-brightgreen.svg?style=plastic
-[6]: https://github.com/zhaojh329/oui/issues/new
-[7]: https://travis-ci.org/zhaojh329/oui.svg?branch=master
-[8]: https://travis-ci.org/zhaojh329/oui
-[11]: https://img.shields.io/badge/支持oui-赞助作者-blueviolet.svg
-[12]: https://gitee.com/zhaojh329/oui#project-donate-overview
-[13]: https://img.shields.io/badge/技术交流群-点击加入：153530783-brightgreen.svg
-[14]: https://jq.qq.com/?_wv=1027&k=5PKxbTV
-
-[![license][1]][2]
-[![PRs Welcome][3]][4]
-[![Issue Welcome][5]][6]
-[![Build Status][7]][8]
-[![Support oui][11]][12]
-[![Chinese Chat][13]][14]
-
 [vue.js]: https://github.com/vuejs/vue
 [element-ui]: https://github.com/ElemeFE/element
 [LuCI2]: https://git.openwrt.org/?p=project/luci2/ui.git
