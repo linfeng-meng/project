@@ -15,7 +15,7 @@
     "vue-i18n": "^8.18.1",
     "vue-router": "^3.3.2",
     "vue-timers": "^2.0.4",
-    "vuetify": "^2.2.11",
+    "vuetify": "^2.6.10",
     "vuetify-dialog": "^2.0.2",
     "vuex": "^3.4.0"
   },
